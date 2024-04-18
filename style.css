@@ -5,5 +5,18 @@ body{
 }
 
 fieldset {  
-    background-color: #CECECE		    ;
+    background-color: #F0EFEF;
+    
+}
+
+input{
+    border: 2px solid #FA5151
+}
+
+fieldset{
+     height: 180px;
+}
+
+div{
+    margin: 10px;
 }
