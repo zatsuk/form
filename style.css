@@ -10,7 +10,7 @@ fieldset {
 }
 
 input{
-    border: 2px solid #FA5151
+    border: 1px solid #FA5151
 }
 
 fieldset{
@@ -19,4 +19,10 @@ fieldset{
 
 div{
     margin: 10px;
+}
+ 
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: 0%;
 }
